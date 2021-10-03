@@ -1,3 +1,5 @@
+#![allow(unused_parens)]
+
 use std::convert::TryInto;
 use std::io::Read;
 use nom::IResult;
